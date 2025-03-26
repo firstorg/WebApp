@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/vinodnov1/Project%20A/_apis/build/status%2Ffirstorg.WebApp?branchName=main)](https://dev.azure.com/vinodnov1/Project%20A/_build/latest?definitionId=52&branchName=main)
